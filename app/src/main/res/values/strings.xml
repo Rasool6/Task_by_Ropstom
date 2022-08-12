@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Task-by-Ropstam</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="spinner1">
+        <item>Gurgaan</item>
+        <item>Gurgaan</item>
+        <item>Gurgaan</item>
+    </string-array>
+</resources>
